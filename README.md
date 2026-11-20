@@ -291,4 +291,4 @@ Here is a demonstration video of PowerLog application:
 ## Contact
 
 - Author: Hyusein Lesho
-- [Email](mailto:hl.dev.acc@gmail.com)
+- [Email](mailto:hyusein.leshov@gmail.com)
